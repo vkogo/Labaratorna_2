@@ -12,5 +12,5 @@ int main()
 
 	cout << "RESULT Z1 = " << z1 << endl;
 	cout << "RESULT Z2 = " << z2 << endl;
-	cout << "git commit)" << endl;
+	
 }
